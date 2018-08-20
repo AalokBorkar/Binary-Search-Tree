@@ -303,7 +303,7 @@ int bst_contains(int val, struct bst* bst) {
 
 /*****************************************************************************
  *
- * Below are the functions and structures you'll implement in this assignment.
+ * Below are the functions and structures I have implemented
  *
  *****************************************************************************/
 
